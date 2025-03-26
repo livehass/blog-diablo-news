@@ -1,0 +1,15 @@
+<div class="max-w-6xl mx-auto px-4 flex items-center justify-between py-4">
+  <a class="text-xl roboto-bold flex items-center gap-x-2" [routerLink]="['']">
+    <img class="size-7" src="{{ logo }}" alt="Logo OBlog" />
+    {{ textNameBlog }}
+  </a>
+
+  <ul class="flex items-center gap-x-1.5">
+    <li>
+      <a class="p-2 rounded-lg bg-transparent hover:bg-muted transition grid place-content-center"
+        [routerLink]="'/search'">
+        <lucide-angular name="search" class="h-[1.2rem] w-[1.2rem] shrink-0" />
+      </a>
+    </li>
+  </ul>
+</div>
