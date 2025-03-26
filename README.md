@@ -31,4 +31,4 @@ Este é um projeto de blog inspirado no universo de Diablo, desenvolvido com Ang
 
 ## Previews do Projeto
 
-![Screenshot do Projeto](https://via.placeholder.com/800x400.png?text=Adicione+uma+imagem+do+projeto+aqui)
+![Screenshot do Projeto](https://raw.githubusercontent.com/livehass/blog-diablo-news/refs/heads/main/src/assets/image.png)
